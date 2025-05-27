@@ -40,8 +40,8 @@ Where:
 
 ### 🖥️ Run the Script
 
-```bash
 python mobius_strip.py
+
 📥 Input Parameters
 The script will prompt you for:
 
@@ -98,5 +98,4 @@ Python object-oriented design
 
 3D visualization using matplotlib
 
-📄 License
-MIT License © 2025 Abhishek (or your name here)
+
