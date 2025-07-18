@@ -108,7 +108,7 @@ if __name__ == "__main__":
     area = mobius.surface_area()
     length = mobius.edge_length()
 
-    # Output results
+    # Output result 
     print(f"Surface Area ≈ {area:.4f}")
     print(f"Edge Length ≈ {length:.4f}")
 
